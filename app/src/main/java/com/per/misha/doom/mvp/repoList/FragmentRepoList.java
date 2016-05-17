@@ -35,6 +35,6 @@ public class FragmentRepoList extends MvpViewStateFragment<ViewRepoList, Present
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.frag)
+//        View view = inflater.inflate(R.layout.frag)
     }
 }
